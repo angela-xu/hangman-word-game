@@ -8,8 +8,7 @@ This is an interactive Hangman game between a player and the computer, which is 
 ## Rules of the game
 * A player is allowed 8 guesses and is only allowed to submit one character at a time (A-Z).
 * A player loses a guess only when s/he guesses incorrectly.
-* If the player guesses the same letter twice, s/he will not be taken away a guess - instead, a message letting them know 
-they've already guessed that letter and asking them to try again is printed.
+* If the player guesses the same letter twice, s/he will not be taken away a guess - instead, a message will be printed to let them know they've already guessed that letter and to ask them to try again.
 * The game will end when the player constructs the full word or runs out of guesses. 
 
 ## Installation and Usages
