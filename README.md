@@ -1,6 +1,6 @@
 # Hangman Word Game
 ## Introduction
-This is an interactive Hangman game between a player and the computer, which is a variation of the classic wordgame Hangman 
+This is an interactive Hangman word game between a player and the computer, which is a variation of the classic word game Hangman 
 (the second player will always be the computer who will be picking a word at random).
 * This game is written in Python 2, and may need some adjustment to run under Python 3.
 * Two files are included: 1) hangman_game.py; 2) word.txt.
